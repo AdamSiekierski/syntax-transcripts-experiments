@@ -4,7 +4,7 @@
 
 ## How to use?
 
-You'll need to have Go environment setup. Next, just enter `go run experiments/experiment_name.go`, to run the experiment
+You'll need to have Go environment setup. Next, just enter `go run experiments/<experiment_name>/<experiment_name>.go`, to run the experiment. For example, try `go run experiments/sick/sick.go`
 
 ## Contributing
 
@@ -13,3 +13,4 @@ If you have an idea for interesting experiment or improvment for the repo, _fork
 ## Experiments
 
 1. `sick.go` - Check how many times Scott and Wes have said the _sick_ word!
+2. `talk_time.go` - See how much time the guys have spent talking.
