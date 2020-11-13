@@ -5,6 +5,8 @@ import (
 	"github.com/AdamSiekierski/syntax-experiments/utils"
 )
 
+// Just print out the first episode
+
 func main() {
 	transcripts, err := utils.LoadTranscripts()
 
