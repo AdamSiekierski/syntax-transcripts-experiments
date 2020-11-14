@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/AdamSiekierski/syntax-experiments/utils"
+	"github.com/AdamSiekierski/syntax-transcripts-experiments/utils"
 )
 
 // Just print out the first episode

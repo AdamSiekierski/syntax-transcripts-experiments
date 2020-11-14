@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/AdamSiekierski/syntax-experiments/utils"
+	"github.com/AdamSiekierski/syntax-transcripts-experiments/utils"
 )
 
 type talkTime struct {
