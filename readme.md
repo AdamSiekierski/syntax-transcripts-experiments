@@ -14,3 +14,4 @@ If you have an idea for interesting experiment or improvment for the repo, _fork
 
 1. `sick.go` - Check how many times Scott and Wes have said the _sick_ word!
 2. `talk_time.go` - See how much time the guys have spent talking.
+3. `occurencies.go` - Counts and sorts all the words by how often they're used. Generates a JSON with 100 most often used words (overall, by Scott and by Wes). Feel free to play with it and maybe create a list of least used words!

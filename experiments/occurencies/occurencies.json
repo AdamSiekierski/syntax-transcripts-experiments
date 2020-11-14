@@ -1,0 +1,1508 @@
+{
+  "all": [
+    {
+      "Place": 1,
+      "Word": "and",
+      "Occurencies": 73819
+    },
+    {
+      "Place": 2,
+      "Word": "the",
+      "Occurencies": 65365
+    },
+    {
+      "Place": 3,
+      "Word": "to",
+      "Occurencies": 62928
+    },
+    {
+      "Place": 4,
+      "Word": "i",
+      "Occurencies": 61951
+    },
+    {
+      "Place": 5,
+      "Word": "a",
+      "Occurencies": 59107
+    },
+    {
+      "Place": 6,
+      "Word": "you",
+      "Occurencies": 57382
+    },
+    {
+      "Place": 7,
+      "Word": "that",
+      "Occurencies": 53095
+    },
+    {
+      "Place": 8,
+      "Word": "like",
+      "Occurencies": 48760
+    },
+    {
+      "Place": 9,
+      "Word": "of",
+      "Occurencies": 47748
+    },
+    {
+      "Place": 10,
+      "Word": "it",
+      "Occurencies": 42278
+    },
+    {
+      "Place": 11,
+      "Word": "is",
+      "Occurencies": 35039
+    },
+    {
+      "Place": 12,
+      "Word": "so",
+      "Occurencies": 29570
+    },
+    {
+      "Place": 13,
+      "Word": "in",
+      "Occurencies": 25786
+    },
+    {
+      "Place": 14,
+      "Word": "just",
+      "Occurencies": 23663
+    },
+    {
+      "Place": 15,
+      "Word": "this",
+      "Occurencies": 22145
+    },
+    {
+      "Place": 16,
+      "Word": "it's",
+      "Occurencies": 21082
+    },
+    {
+      "Place": 17,
+      "Word": "have",
+      "Occurencies": 20748
+    },
+    {
+      "Place": 18,
+      "Word": "for",
+      "Occurencies": 20296
+    },
+    {
+      "Place": 19,
+      "Word": "on",
+      "Occurencies": 18002
+    },
+    {
+      "Place": 20,
+      "Word": "yeah",
+      "Occurencies": 16968
+    },
+    {
+      "Place": 21,
+      "Word": "or",
+      "Occurencies": 15499
+    },
+    {
+      "Place": 22,
+      "Word": "but",
+      "Occurencies": 15063
+    },
+    {
+      "Place": 23,
+      "Word": "your",
+      "Occurencies": 14538
+    },
+    {
+      "Place": 24,
+      "Word": "do",
+      "Occurencies": 13998
+    },
+    {
+      "Place": 25,
+      "Word": "if",
+      "Occurencies": 13625
+    },
+    {
+      "Place": 26,
+      "Word": "all",
+      "Occurencies": 13038
+    },
+    {
+      "Place": 27,
+      "Word": "was",
+      "Occurencies": 12468
+    },
+    {
+      "Place": 28,
+      "Word": "can",
+      "Occurencies": 12278
+    },
+    {
+      "Place": 29,
+      "Word": "my",
+      "Occurencies": 12207
+    },
+    {
+      "Place": 30,
+      "Word": "know",
+      "Occurencies": 12203
+    },
+    {
+      "Place": 31,
+      "Word": "we",
+      "Occurencies": 12014
+    },
+    {
+      "Place": 32,
+      "Word": "because",
+      "Occurencies": 11973
+    },
+    {
+      "Place": 33,
+      "Word": "be",
+      "Occurencies": 11770
+    },
+    {
+      "Place": 34,
+      "Word": "what",
+      "Occurencies": 11615
+    },
+    {
+      "Place": 35,
+      "Word": "one",
+      "Occurencies": 11245
+    },
+    {
+      "Place": 36,
+      "Word": "that's",
+      "Occurencies": 11034
+    },
+    {
+      "Place": 37,
+      "Word": "with",
+      "Occurencies": 10973
+    },
+    {
+      "Place": 38,
+      "Word": "about",
+      "Occurencies": 10834
+    },
+    {
+      "Place": 39,
+      "Word": "then",
+      "Occurencies": 10801
+    },
+    {
+      "Place": 40,
+      "Word": "are",
+      "Occurencies": 10590
+    },
+    {
+      "Place": 41,
+      "Word": "not",
+      "Occurencies": 10548
+    },
+    {
+      "Place": 42,
+      "Word": "i'm",
+      "Occurencies": 10433
+    },
+    {
+      "Place": 43,
+      "Word": "don't",
+      "Occurencies": 10195
+    },
+    {
+      "Place": 44,
+      "Word": "really",
+      "Occurencies": 10163
+    },
+    {
+      "Place": 45,
+      "Word": "they",
+      "Occurencies": 9750
+    },
+    {
+      "Place": 46,
+      "Word": "as",
+      "Occurencies": 9147
+    },
+    {
+      "Place": 47,
+      "Word": "get",
+      "Occurencies": 8914
+    },
+    {
+      "Place": 48,
+      "Word": "think",
+      "Occurencies": 8709
+    },
+    {
+      "Place": 49,
+      "Word": "out",
+      "Occurencies": 8367
+    },
+    {
+      "Place": 50,
+      "Word": "at",
+      "Occurencies": 8243
+    },
+    {
+      "Place": 51,
+      "Word": "up",
+      "Occurencies": 8137
+    },
+    {
+      "Place": 52,
+      "Word": "things",
+      "Occurencies": 8097
+    },
+    {
+      "Place": 53,
+      "Word": "you're",
+      "Occurencies": 7925
+    },
+    {
+      "Place": 54,
+      "Word": "some",
+      "Occurencies": 7428
+    },
+    {
+      "Place": 55,
+      "Word": "going",
+      "Occurencies": 7350
+    },
+    {
+      "Place": 56,
+      "Word": "people",
+      "Occurencies": 7153
+    },
+    {
+      "Place": 57,
+      "Word": "me",
+      "Occurencies": 6879
+    },
+    {
+      "Place": 58,
+      "Word": "use",
+      "Occurencies": 6764
+    },
+    {
+      "Place": 59,
+      "Word": "want",
+      "Occurencies": 6699
+    },
+    {
+      "Place": 60,
+      "Word": "thing",
+      "Occurencies": 6568
+    },
+    {
+      "Place": 61,
+      "Word": "stuff",
+      "Occurencies": 6511
+    },
+    {
+      "Place": 62,
+      "Word": "how",
+      "Occurencies": 6507
+    },
+    {
+      "Place": 63,
+      "Word": "an",
+      "Occurencies": 6304
+    },
+    {
+      "Place": 64,
+      "Word": "these",
+      "Occurencies": 6298
+    },
+    {
+      "Place": 65,
+      "Word": "there",
+      "Occurencies": 6181
+    },
+    {
+      "Place": 66,
+      "Word": "something",
+      "Occurencies": 6159
+    },
+    {
+      "Place": 67,
+      "Word": "there's",
+      "Occurencies": 6151
+    },
+    {
+      "Place": 68,
+      "Word": "which",
+      "Occurencies": 5985
+    },
+    {
+      "Place": 69,
+      "Word": "when",
+      "Occurencies": 5915
+    },
+    {
+      "Place": 70,
+      "Word": "time",
+      "Occurencies": 5829
+    },
+    {
+      "Place": 71,
+      "Word": "into",
+      "Occurencies": 5621
+    },
+    {
+      "Place": 72,
+      "Word": "them",
+      "Occurencies": 5573
+    },
+    {
+      "Place": 73,
+      "Word": "little",
+      "Occurencies": 5566
+    },
+    {
+      "Place": 74,
+      "Word": "lot",
+      "Occurencies": 5474
+    },
+    {
+      "Place": 75,
+      "Word": "would",
+      "Occurencies": 5428
+    },
+    {
+      "Place": 76,
+      "Word": "right",
+      "Occurencies": 5410
+    },
+    {
+      "Place": 77,
+      "Word": "sort",
+      "Occurencies": 5241
+    },
+    {
+      "Place": 78,
+      "Word": "will",
+      "Occurencies": 5232
+    },
+    {
+      "Place": 79,
+      "Word": "from",
+      "Occurencies": 5113
+    },
+    {
+      "Place": 80,
+      "Word": "now",
+      "Occurencies": 5112
+    },
+    {
+      "Place": 81,
+      "Word": "good",
+      "Occurencies": 5061
+    },
+    {
+      "Place": 82,
+      "Word": "where",
+      "Occurencies": 4935
+    },
+    {
+      "Place": 83,
+      "Word": "well",
+      "Occurencies": 4828
+    },
+    {
+      "Place": 84,
+      "Word": "go",
+      "Occurencies": 4827
+    },
+    {
+      "Place": 85,
+      "Word": "those",
+      "Occurencies": 4572
+    },
+    {
+      "Place": 86,
+      "Word": "got",
+      "Occurencies": 4217
+    },
+    {
+      "Place": 87,
+      "Word": "i've",
+      "Occurencies": 4184
+    },
+    {
+      "Place": 88,
+      "Word": "had",
+      "Occurencies": 4178
+    },
+    {
+      "Place": 89,
+      "Word": "way",
+      "Occurencies": 4083
+    },
+    {
+      "Place": 90,
+      "Word": "more",
+      "Occurencies": 3922
+    },
+    {
+      "Place": 91,
+      "Word": "here",
+      "Occurencies": 3917
+    },
+    {
+      "Place": 92,
+      "Word": "say",
+      "Occurencies": 3894
+    },
+    {
+      "Place": 93,
+      "Word": "need",
+      "Occurencies": 3892
+    },
+    {
+      "Place": 94,
+      "Word": "oh",
+      "Occurencies": 3854
+    },
+    {
+      "Place": 95,
+      "Word": "maybe",
+      "Occurencies": 3728
+    },
+    {
+      "Place": 96,
+      "Word": "code",
+      "Occurencies": 3725
+    },
+    {
+      "Place": 97,
+      "Word": "no",
+      "Occurencies": 3675
+    },
+    {
+      "Place": 98,
+      "Word": "been",
+      "Occurencies": 3638
+    },
+    {
+      "Place": 99,
+      "Word": "very",
+      "Occurencies": 3610
+    },
+    {
+      "Place": 100,
+      "Word": "they're",
+      "Occurencies": 3603
+    }
+  ],
+  "scott": [
+    {
+      "Place": 1,
+      "Word": "and",
+      "Occurencies": 29866
+    },
+    {
+      "Place": 2,
+      "Word": "i",
+      "Occurencies": 28769
+    },
+    {
+      "Place": 3,
+      "Word": "the",
+      "Occurencies": 27977
+    },
+    {
+      "Place": 4,
+      "Word": "to",
+      "Occurencies": 27927
+    },
+    {
+      "Place": 5,
+      "Word": "a",
+      "Occurencies": 25701
+    },
+    {
+      "Place": 6,
+      "Word": "you",
+      "Occurencies": 24171
+    },
+    {
+      "Place": 7,
+      "Word": "that",
+      "Occurencies": 21949
+    },
+    {
+      "Place": 8,
+      "Word": "of",
+      "Occurencies": 21856
+    },
+    {
+      "Place": 9,
+      "Word": "like",
+      "Occurencies": 19495
+    },
+    {
+      "Place": 10,
+      "Word": "it",
+      "Occurencies": 17654
+    },
+    {
+      "Place": 11,
+      "Word": "is",
+      "Occurencies": 15038
+    },
+    {
+      "Place": 12,
+      "Word": "so",
+      "Occurencies": 12859
+    },
+    {
+      "Place": 13,
+      "Word": "this",
+      "Occurencies": 11865
+    },
+    {
+      "Place": 14,
+      "Word": "in",
+      "Occurencies": 11292
+    },
+    {
+      "Place": 15,
+      "Word": "just",
+      "Occurencies": 9846
+    },
+    {
+      "Place": 16,
+      "Word": "it's",
+      "Occurencies": 9382
+    },
+    {
+      "Place": 17,
+      "Word": "for",
+      "Occurencies": 9079
+    },
+    {
+      "Place": 18,
+      "Word": "have",
+      "Occurencies": 8744
+    },
+    {
+      "Place": 19,
+      "Word": "yeah",
+      "Occurencies": 8369
+    },
+    {
+      "Place": 20,
+      "Word": "know",
+      "Occurencies": 7252
+    },
+    {
+      "Place": 21,
+      "Word": "on",
+      "Occurencies": 7165
+    },
+    {
+      "Place": 22,
+      "Word": "but",
+      "Occurencies": 6931
+    },
+    {
+      "Place": 23,
+      "Word": "or",
+      "Occurencies": 6582
+    },
+    {
+      "Place": 24,
+      "Word": "your",
+      "Occurencies": 6343
+    },
+    {
+      "Place": 25,
+      "Word": "be",
+      "Occurencies": 6041
+    },
+    {
+      "Place": 26,
+      "Word": "do",
+      "Occurencies": 6014
+    },
+    {
+      "Place": 27,
+      "Word": "was",
+      "Occurencies": 5814
+    },
+    {
+      "Place": 28,
+      "Word": "my",
+      "Occurencies": 5736
+    },
+    {
+      "Place": 29,
+      "Word": "all",
+      "Occurencies": 5731
+    },
+    {
+      "Place": 30,
+      "Word": "if",
+      "Occurencies": 5687
+    },
+    {
+      "Place": 31,
+      "Word": "i'm",
+      "Occurencies": 5263
+    },
+    {
+      "Place": 32,
+      "Word": "really",
+      "Occurencies": 5253
+    },
+    {
+      "Place": 33,
+      "Word": "not",
+      "Occurencies": 5191
+    },
+    {
+      "Place": 34,
+      "Word": "one",
+      "Occurencies": 5157
+    },
+    {
+      "Place": 35,
+      "Word": "don't",
+      "Occurencies": 5047
+    },
+    {
+      "Place": 36,
+      "Word": "we",
+      "Occurencies": 5039
+    },
+    {
+      "Place": 37,
+      "Word": "about",
+      "Occurencies": 5035
+    },
+    {
+      "Place": 38,
+      "Word": "with",
+      "Occurencies": 4817
+    },
+    {
+      "Place": 39,
+      "Word": "because",
+      "Occurencies": 4767
+    },
+    {
+      "Place": 40,
+      "Word": "are",
+      "Occurencies": 4442
+    },
+    {
+      "Place": 41,
+      "Word": "can",
+      "Occurencies": 4374
+    },
+    {
+      "Place": 42,
+      "Word": "what",
+      "Occurencies": 4368
+    },
+    {
+      "Place": 43,
+      "Word": "things",
+      "Occurencies": 4239
+    },
+    {
+      "Place": 44,
+      "Word": "going",
+      "Occurencies": 4120
+    },
+    {
+      "Place": 45,
+      "Word": "that's",
+      "Occurencies": 4023
+    },
+    {
+      "Place": 46,
+      "Word": "get",
+      "Occurencies": 3971
+    },
+    {
+      "Place": 47,
+      "Word": "you're",
+      "Occurencies": 3869
+    },
+    {
+      "Place": 48,
+      "Word": "up",
+      "Occurencies": 3866
+    },
+    {
+      "Place": 49,
+      "Word": "stuff",
+      "Occurencies": 3824
+    },
+    {
+      "Place": 50,
+      "Word": "think",
+      "Occurencies": 3794
+    },
+    {
+      "Place": 51,
+      "Word": "some",
+      "Occurencies": 3746
+    },
+    {
+      "Place": 52,
+      "Word": "at",
+      "Occurencies": 3472
+    },
+    {
+      "Place": 53,
+      "Word": "me",
+      "Occurencies": 3469
+    },
+    {
+      "Place": 54,
+      "Word": "they",
+      "Occurencies": 3445
+    },
+    {
+      "Place": 55,
+      "Word": "out",
+      "Occurencies": 3334
+    },
+    {
+      "Place": 56,
+      "Word": "as",
+      "Occurencies": 3333
+    },
+    {
+      "Place": 57,
+      "Word": "then",
+      "Occurencies": 3284
+    },
+    {
+      "Place": 58,
+      "Word": "these",
+      "Occurencies": 3035
+    },
+    {
+      "Place": 59,
+      "Word": "use",
+      "Occurencies": 2978
+    },
+    {
+      "Place": 60,
+      "Word": "thing",
+      "Occurencies": 2903
+    },
+    {
+      "Place": 61,
+      "Word": "little",
+      "Occurencies": 2862
+    },
+    {
+      "Place": 62,
+      "Word": "want",
+      "Occurencies": 2859
+    },
+    {
+      "Place": 63,
+      "Word": "time",
+      "Occurencies": 2851
+    },
+    {
+      "Place": 64,
+      "Word": "there",
+      "Occurencies": 2802
+    },
+    {
+      "Place": 65,
+      "Word": "something",
+      "Occurencies": 2624
+    },
+    {
+      "Place": 66,
+      "Word": "an",
+      "Occurencies": 2599
+    },
+    {
+      "Place": 67,
+      "Word": "lot",
+      "Occurencies": 2570
+    },
+    {
+      "Place": 68,
+      "Word": "how",
+      "Occurencies": 2569
+    },
+    {
+      "Place": 69,
+      "Word": "right",
+      "Occurencies": 2548
+    },
+    {
+      "Place": 70,
+      "Word": "sort",
+      "Occurencies": 2508
+    },
+    {
+      "Place": 71,
+      "Word": "now",
+      "Occurencies": 2492
+    },
+    {
+      "Place": 72,
+      "Word": "those",
+      "Occurencies": 2453
+    },
+    {
+      "Place": 73,
+      "Word": "there's",
+      "Occurencies": 2425
+    },
+    {
+      "Place": 74,
+      "Word": "when",
+      "Occurencies": 2409
+    },
+    {
+      "Place": 75,
+      "Word": "would",
+      "Occurencies": 2363
+    },
+    {
+      "Place": 76,
+      "Word": "people",
+      "Occurencies": 2294
+    },
+    {
+      "Place": 77,
+      "Word": "into",
+      "Occurencies": 2249
+    },
+    {
+      "Place": 78,
+      "Word": "here",
+      "Occurencies": 2219
+    },
+    {
+      "Place": 79,
+      "Word": "good",
+      "Occurencies": 2157
+    },
+    {
+      "Place": 80,
+      "Word": "maybe",
+      "Occurencies": 2125
+    },
+    {
+      "Place": 81,
+      "Word": "more",
+      "Occurencies": 2070
+    },
+    {
+      "Place": 82,
+      "Word": "way",
+      "Occurencies": 2044
+    },
+    {
+      "Place": 83,
+      "Word": "which",
+      "Occurencies": 2026
+    },
+    {
+      "Place": 84,
+      "Word": "from",
+      "Occurencies": 2024
+    },
+    {
+      "Place": 85,
+      "Word": "them",
+      "Occurencies": 2007
+    },
+    {
+      "Place": 86,
+      "Word": "code",
+      "Occurencies": 1930
+    },
+    {
+      "Place": 87,
+      "Word": "very",
+      "Occurencies": 1887
+    },
+    {
+      "Place": 88,
+      "Word": "well",
+      "Occurencies": 1846
+    },
+    {
+      "Place": 89,
+      "Word": "where",
+      "Occurencies": 1822
+    },
+    {
+      "Place": 90,
+      "Word": "had",
+      "Occurencies": 1814
+    },
+    {
+      "Place": 91,
+      "Word": "been",
+      "Occurencies": 1766
+    },
+    {
+      "Place": 92,
+      "Word": "say",
+      "Occurencies": 1733
+    },
+    {
+      "Place": 93,
+      "Word": "doing",
+      "Occurencies": 1723
+    },
+    {
+      "Place": 94,
+      "Word": "bit",
+      "Occurencies": 1722
+    },
+    {
+      "Place": 95,
+      "Word": "i've",
+      "Occurencies": 1691
+    },
+    {
+      "Place": 96,
+      "Word": "see",
+      "Occurencies": 1688
+    },
+    {
+      "Place": 97,
+      "Word": "no",
+      "Occurencies": 1656
+    },
+    {
+      "Place": 98,
+      "Word": "go",
+      "Occurencies": 1596
+    },
+    {
+      "Place": 99,
+      "Word": "could",
+      "Occurencies": 1566
+    },
+    {
+      "Place": 100,
+      "Word": "oh",
+      "Occurencies": 1559
+    }
+  ],
+  "wes": [
+    {
+      "Place": 1,
+      "Word": "and",
+      "Occurencies": 39032
+    },
+    {
+      "Place": 2,
+      "Word": "the",
+      "Occurencies": 32868
+    },
+    {
+      "Place": 3,
+      "Word": "to",
+      "Occurencies": 30840
+    },
+    {
+      "Place": 4,
+      "Word": "a",
+      "Occurencies": 29517
+    },
+    {
+      "Place": 5,
+      "Word": "you",
+      "Occurencies": 29361
+    },
+    {
+      "Place": 6,
+      "Word": "i",
+      "Occurencies": 29108
+    },
+    {
+      "Place": 7,
+      "Word": "that",
+      "Occurencies": 27801
+    },
+    {
+      "Place": 8,
+      "Word": "like",
+      "Occurencies": 25681
+    },
+    {
+      "Place": 9,
+      "Word": "of",
+      "Occurencies": 22901
+    },
+    {
+      "Place": 10,
+      "Word": "it",
+      "Occurencies": 22275
+    },
+    {
+      "Place": 11,
+      "Word": "is",
+      "Occurencies": 17968
+    },
+    {
+      "Place": 12,
+      "Word": "so",
+      "Occurencies": 14421
+    },
+    {
+      "Place": 13,
+      "Word": "in",
+      "Occurencies": 12655
+    },
+    {
+      "Place": 14,
+      "Word": "just",
+      "Occurencies": 12459
+    },
+    {
+      "Place": 15,
+      "Word": "have",
+      "Occurencies": 10791
+    },
+    {
+      "Place": 16,
+      "Word": "it's",
+      "Occurencies": 10133
+    },
+    {
+      "Place": 17,
+      "Word": "for",
+      "Occurencies": 9905
+    },
+    {
+      "Place": 18,
+      "Word": "on",
+      "Occurencies": 9779
+    },
+    {
+      "Place": 19,
+      "Word": "this",
+      "Occurencies": 9011
+    },
+    {
+      "Place": 20,
+      "Word": "or",
+      "Occurencies": 8138
+    },
+    {
+      "Place": 21,
+      "Word": "your",
+      "Occurencies": 7433
+    },
+    {
+      "Place": 22,
+      "Word": "do",
+      "Occurencies": 7138
+    },
+    {
+      "Place": 23,
+      "Word": "if",
+      "Occurencies": 7113
+    },
+    {
+      "Place": 24,
+      "Word": "but",
+      "Occurencies": 7039
+    },
+    {
+      "Place": 25,
+      "Word": "can",
+      "Occurencies": 7019
+    },
+    {
+      "Place": 26,
+      "Word": "yeah",
+      "Occurencies": 6992
+    },
+    {
+      "Place": 27,
+      "Word": "then",
+      "Occurencies": 6842
+    },
+    {
+      "Place": 28,
+      "Word": "all",
+      "Occurencies": 6632
+    },
+    {
+      "Place": 29,
+      "Word": "because",
+      "Occurencies": 6583
+    },
+    {
+      "Place": 30,
+      "Word": "what",
+      "Occurencies": 6558
+    },
+    {
+      "Place": 31,
+      "Word": "that's",
+      "Occurencies": 6143
+    },
+    {
+      "Place": 32,
+      "Word": "my",
+      "Occurencies": 5880
+    },
+    {
+      "Place": 33,
+      "Word": "they",
+      "Occurencies": 5749
+    },
+    {
+      "Place": 34,
+      "Word": "we",
+      "Occurencies": 5723
+    },
+    {
+      "Place": 35,
+      "Word": "was",
+      "Occurencies": 5662
+    },
+    {
+      "Place": 36,
+      "Word": "one",
+      "Occurencies": 5505
+    },
+    {
+      "Place": 37,
+      "Word": "are",
+      "Occurencies": 5501
+    },
+    {
+      "Place": 38,
+      "Word": "with",
+      "Occurencies": 5197
+    },
+    {
+      "Place": 39,
+      "Word": "about",
+      "Occurencies": 5188
+    },
+    {
+      "Place": 40,
+      "Word": "be",
+      "Occurencies": 5021
+    },
+    {
+      "Place": 41,
+      "Word": "as",
+      "Occurencies": 4906
+    },
+    {
+      "Place": 42,
+      "Word": "not",
+      "Occurencies": 4683
+    },
+    {
+      "Place": 43,
+      "Word": "don't",
+      "Occurencies": 4586
+    },
+    {
+      "Place": 44,
+      "Word": "out",
+      "Occurencies": 4537
+    },
+    {
+      "Place": 45,
+      "Word": "i'm",
+      "Occurencies": 4468
+    },
+    {
+      "Place": 46,
+      "Word": "people",
+      "Occurencies": 4338
+    },
+    {
+      "Place": 47,
+      "Word": "get",
+      "Occurencies": 4300
+    },
+    {
+      "Place": 48,
+      "Word": "at",
+      "Occurencies": 4272
+    },
+    {
+      "Place": 49,
+      "Word": "think",
+      "Occurencies": 4228
+    },
+    {
+      "Place": 50,
+      "Word": "really",
+      "Occurencies": 4142
+    },
+    {
+      "Place": 51,
+      "Word": "will",
+      "Occurencies": 4054
+    },
+    {
+      "Place": 52,
+      "Word": "up",
+      "Occurencies": 3849
+    },
+    {
+      "Place": 53,
+      "Word": "know",
+      "Occurencies": 3781
+    },
+    {
+      "Place": 54,
+      "Word": "which",
+      "Occurencies": 3664
+    },
+    {
+      "Place": 55,
+      "Word": "how",
+      "Occurencies": 3509
+    },
+    {
+      "Place": 56,
+      "Word": "want",
+      "Occurencies": 3447
+    },
+    {
+      "Place": 57,
+      "Word": "things",
+      "Occurencies": 3429
+    },
+    {
+      "Place": 58,
+      "Word": "you're",
+      "Occurencies": 3414
+    },
+    {
+      "Place": 59,
+      "Word": "use",
+      "Occurencies": 3385
+    },
+    {
+      "Place": 60,
+      "Word": "there's",
+      "Occurencies": 3337
+    },
+    {
+      "Place": 61,
+      "Word": "thing",
+      "Occurencies": 3312
+    },
+    {
+      "Place": 62,
+      "Word": "some",
+      "Occurencies": 3311
+    },
+    {
+      "Place": 63,
+      "Word": "them",
+      "Occurencies": 3310
+    },
+    {
+      "Place": 64,
+      "Word": "an",
+      "Occurencies": 3293
+    },
+    {
+      "Place": 65,
+      "Word": "something",
+      "Occurencies": 3183
+    },
+    {
+      "Place": 66,
+      "Word": "when",
+      "Occurencies": 3148
+    },
+    {
+      "Place": 67,
+      "Word": "into",
+      "Occurencies": 3119
+    },
+    {
+      "Place": 68,
+      "Word": "me",
+      "Occurencies": 3045
+    },
+    {
+      "Place": 69,
+      "Word": "these",
+      "Occurencies": 2951
+    },
+    {
+      "Place": 70,
+      "Word": "go",
+      "Occurencies": 2942
+    },
+    {
+      "Place": 71,
+      "Word": "there",
+      "Occurencies": 2901
+    },
+    {
+      "Place": 72,
+      "Word": "going",
+      "Occurencies": 2889
+    },
+    {
+      "Place": 73,
+      "Word": "where",
+      "Occurencies": 2796
+    },
+    {
+      "Place": 74,
+      "Word": "from",
+      "Occurencies": 2729
+    },
+    {
+      "Place": 75,
+      "Word": "would",
+      "Occurencies": 2713
+    },
+    {
+      "Place": 76,
+      "Word": "well",
+      "Occurencies": 2684
+    },
+    {
+      "Place": 77,
+      "Word": "good",
+      "Occurencies": 2628
+    },
+    {
+      "Place": 78,
+      "Word": "time",
+      "Occurencies": 2614
+    },
+    {
+      "Place": 79,
+      "Word": "sort",
+      "Occurencies": 2602
+    },
+    {
+      "Place": 80,
+      "Word": "got",
+      "Occurencies": 2511
+    },
+    {
+      "Place": 81,
+      "Word": "lot",
+      "Occurencies": 2499
+    },
+    {
+      "Place": 82,
+      "Word": "little",
+      "Occurencies": 2443
+    },
+    {
+      "Place": 83,
+      "Word": "right",
+      "Occurencies": 2422
+    },
+    {
+      "Place": 84,
+      "Word": "stuff",
+      "Occurencies": 2335
+    },
+    {
+      "Place": 85,
+      "Word": "now",
+      "Occurencies": 2309
+    },
+    {
+      "Place": 86,
+      "Word": "need",
+      "Occurencies": 2276
+    },
+    {
+      "Place": 87,
+      "Word": "i've",
+      "Occurencies": 2266
+    },
+    {
+      "Place": 88,
+      "Word": "had",
+      "Occurencies": 2124
+    },
+    {
+      "Place": 89,
+      "Word": "actually",
+      "Occurencies": 1979
+    },
+    {
+      "Place": 90,
+      "Word": "oh",
+      "Occurencies": 1955
+    },
+    {
+      "Place": 91,
+      "Word": "say",
+      "Occurencies": 1869
+    },
+    {
+      "Place": 92,
+      "Word": "those",
+      "Occurencies": 1860
+    },
+    {
+      "Place": 93,
+      "Word": "much",
+      "Occurencies": 1855
+    },
+    {
+      "Place": 94,
+      "Word": "also",
+      "Occurencies": 1810
+    },
+    {
+      "Place": 95,
+      "Word": "they're",
+      "Occurencies": 1805
+    },
+    {
+      "Place": 96,
+      "Word": "kind",
+      "Occurencies": 1802
+    },
+    {
+      "Place": 97,
+      "Word": "other",
+      "Occurencies": 1749
+    },
+    {
+      "Place": 98,
+      "Word": "make",
+      "Occurencies": 1742
+    },
+    {
+      "Place": 99,
+      "Word": "way",
+      "Occurencies": 1718
+    },
+    {
+      "Place": 100,
+      "Word": "no",
+      "Occurencies": 1718
+    }
+  ]
+}
